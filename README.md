@@ -1,1 +1,1 @@
-Nop, not anymore
+Tried doing somthing with Django but couldnt
